@@ -23,7 +23,7 @@
 .navegador{
     position: static;
     text-align: center;
-    font-size: 16px;
+    font-size: 40px;
     margin: 20px;
     cursor: pointer;
 }
@@ -36,7 +36,8 @@
     position: relative;
     left: auto;
     bottom: auto;
-    width: 438px;
+    width: 100%;
+    max-width: 500px;
     height: 650px;
     min-height: 200px;
     margin: 80px auto 20px;
